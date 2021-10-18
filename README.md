@@ -17,7 +17,7 @@ The "Magic Ball" program was written in Ruby :
    git clone https://github.com/Ostavaleo/magic_ball.git
    ~~~
 
-3. Open Terminal / Command :
+3. Open Terminal / Command
 
 
 4. Go to its directory:
