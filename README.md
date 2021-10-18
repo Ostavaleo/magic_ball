@@ -1,6 +1,6 @@
 # MAGIC BALL
 The Magic Ball program is a comic console game that predicts the future.
-A full description of the game can be read on Wikipedia  - https://ru.wikipedia.org/wiki/Magic_8_ball
+A full description of the game can be read on [Wikipedia.](https://ru.wikipedia.org/wiki/Magic_8_ball)
 
 
 ## Technologies used
